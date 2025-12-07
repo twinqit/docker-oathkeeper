@@ -1,4 +1,4 @@
-FROM oryd/oathkeeper:v0.40.9
+FROM oryd/oathkeeper:v25.4.0
 
 ARG TARGETPLATFORM
 ARG BUILDPLATFORM
